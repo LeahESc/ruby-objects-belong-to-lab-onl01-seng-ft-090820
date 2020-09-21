@@ -4,4 +4,7 @@ class Artist
     @name = name
   end
   
-end 
+  def name(artist)
+    artist.name = @name
+  end
+end
