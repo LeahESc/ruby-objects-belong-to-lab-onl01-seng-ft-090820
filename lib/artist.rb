@@ -9,4 +9,4 @@ class Artist
   end
 end
 
-artist("Beyonce") = Artist.new 
+ "Beyonce"= Artist.new 
