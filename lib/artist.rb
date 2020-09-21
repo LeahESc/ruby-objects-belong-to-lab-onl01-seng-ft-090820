@@ -8,3 +8,5 @@ class Artist
     artist.name = @name
   end
 end
+
+artist("Beyonce") = Artist.new 
