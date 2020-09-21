@@ -8,4 +8,6 @@ class Artist
   def name(artist)
     artist.name = @name
   end
+  
+  artist("Beyonce") = Artist.new 
 end
