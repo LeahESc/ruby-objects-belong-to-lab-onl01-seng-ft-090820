@@ -7,4 +7,5 @@ class Post
   
   def author 
     post.author = Author 
+  end 
 end 
