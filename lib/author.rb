@@ -5,7 +5,7 @@ class Author
     @name = name
   end
   
-  def author 
-    post.author = @name 
-  end 
+  # def author 
+  #   post.author = @name 
+  # end 
 end
