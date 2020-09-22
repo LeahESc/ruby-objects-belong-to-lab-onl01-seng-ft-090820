@@ -5,7 +5,7 @@ class Post
     @title = title
   end 
   
-  def author 
-    post.author = author 
-  end 
+  # def author 
+  #   post.author = author 
+  # end 
 end 
