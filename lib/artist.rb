@@ -5,8 +5,8 @@ class Artist
     @name = name
   end
   
-  def name(artist)
-    artist.name = @name
+  # def name(artist)
+  #   artist.name = @name
   end
 end
   # beyonce = Artist.new("Beyonce")
