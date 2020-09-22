@@ -7,7 +7,7 @@ class Artist
   
   # def name(artist)
   #   artist.name = @name
-  end
+  # end
 end
   # beyonce = Artist.new("Beyonce")
 
