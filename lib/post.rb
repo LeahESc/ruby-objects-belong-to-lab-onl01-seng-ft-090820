@@ -3,9 +3,10 @@ class Post
   
   def initialize
     @title = title
+    @author = author
   end 
   
   def author 
-    Author.new = author
+    @author
   end 
 end 
