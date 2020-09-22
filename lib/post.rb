@@ -7,6 +7,5 @@ class Post
   
   def author 
     Author.new = author
-    post.author = author 
   end 
 end 
