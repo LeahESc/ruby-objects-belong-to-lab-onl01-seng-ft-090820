@@ -6,6 +6,6 @@ class Post
   end 
   
   def author 
-    post.author = Author 
+    post.author = author 
   end 
 end 
